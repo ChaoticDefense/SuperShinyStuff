@@ -1,0 +1,7 @@
+Specular Maps:
+	h0ppip (Vanilla PBR)
+		all current supported blocks
+			**ore specular maps were created by me, but were all based on the original specular map**
+			**all mineral blocks also have normal maps**
+				***the above two have the execption of redstone ore and block, which do not have either**
+		all armor and horse armor
